@@ -1,0 +1,16 @@
+{
+  "name": "Yaazhini Idly Manager",
+  "short_name": "Yaazhini",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#f97316",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://lucide.dev/icons/chef-hat.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
